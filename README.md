@@ -18,6 +18,7 @@ https://beyondthemes.com/doc15468/3.jpeg
 
 Dependencies : 
 video_player: ^0.10.11+2
+
 audioplayers: ^0.15.1
 
 Assets : 
