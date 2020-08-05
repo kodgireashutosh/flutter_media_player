@@ -23,8 +23,8 @@ audioplayers: ^0.15.1
 
 Assets : 
 assets:
-     - Videos/videomy.mp4
      
+     - Videos/videomy.mp4
      - Audio/mymusic.mp3
      - assets/
      
