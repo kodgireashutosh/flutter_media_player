@@ -30,9 +30,10 @@ assets:
 Video and Audio are available in package.
 3 files included in the lib folder :
 
-main.dart - Method is defined in this file
+main.dart - Method is defined in this file, Main Screen,
 audio_files.dart - For playing audio 
 video_files.dart - for Playing Video 
 
+
 Thanks for Reading 
-Find me on Linkedin 
+Find me on Linkedin :  www.linkedin.com/in/kodgireashutosh
